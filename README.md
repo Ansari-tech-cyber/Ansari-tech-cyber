@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ansari-tech-cyber
-- 👀 I’m interested in visual basic dotnet and cyber security{hacking}
-- 🌱 I’m currently learning visual basic dotnet
-- 💞️ I’m looking to collaborate on visual basic dotnet
+- 👀 I’m interested in cyber security.
+- 🌱 I’m currently learning cyber security.
+- 💞️ I’m looking to collaborate on cyber security.
 - 📫 How to reach me binchuaibnjobdi@gmail.com
 
 <!---
